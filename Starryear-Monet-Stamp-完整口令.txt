@@ -1,0 +1,864 @@
+STARRYEAR-MONET-STAMP
+星年莫奈印章（！注意哈，最好要把这张图的地点景点一并告诉AI，有些小众场景不一定能识别出来，eg：杭州西湖）
+EVIDENCE → IMPRINT → MONET MEMORY
+Starryear-Monet-Stamp
+作者：Starryear
+使用方法：
+1. 上传一张你自己的照片。
+2. 把下面【完整口令】从头到尾复制发送。
+================================================================================
+【完整口令｜从下面开始复制】【完整口令｜从下面开始复制】【完整口令｜从下面开始复制】
+================================================================================
+Using the photograph uploaded in this turn as the PRIMARY AND SOLE VISUAL EVIDENCE, create one finished vertical 2:3 travel-archive artwork titled:
+Starryear-Monet-Stamp
+The artwork must reconstruct one photographed place through three fundamentally different visual states:
+TOP — PHOTOGRAPHIC EVIDENCE MIDDLE — SYMBOLIC IMPRINT BOTTOM — MONET MEMORY
+This is NOT a fixed visual template.
+Every photograph must generate its own:
+visual language, symbol, palette, structural rhythm, spatial reconstruction, typographic hierarchy, information field, scene title, and postal stamp.
+The fixed element is the METHOD, not the visual appearance.
+
+CORE WORKFLOW
+READ THE PHOTOGRAPH → CHECK WHETHER THE USER PROVIDED THE LOCATION → IF PROVIDED, LOCK THE USER-PROVIDED IDENTITY → IF NOT PROVIDED, IDENTIFY THE SCENE AS ACCURATELY AS POSSIBLE → VERIFY THE HIGHEST RELIABLE GEOGRAPHIC LEVEL → IF GEOGRAPHY REMAINS UNCERTAIN, NAME THE OBSERVABLE SCENE INSTEAD → ANALYZE THE PHOTOGRAPH → EXTRACT VISUAL DNA → EXTRACT COLOR DNA → PRESERVE REALITY → COMPRESS FORM → RECONSTRUCT MEMORY → RENDER THE FINAL ENGLISH ARCHIVAL INFORMATION.
+
+0. ABSOLUTE LOCATION AND SCENE-IDENTITY RULE
+LOCATION ACCURACY HAS HIGHER PRIORITY THAN DESIGN COMPLETENESS.
+However:
+THE FINAL ARTWORK SHOULD STILL CONTAIN A MEANINGFUL SCENE IDENTITY.
+The model must therefore distinguish between:
+A — USER-PROVIDED LOCATION
+The user explicitly provides a:
+country, province, city, district, landmark, park, lake, station, building, street, temple, garden, scenic area, or other place name.
+This information has the highest priority.
+Unless the photograph obviously contradicts it, use the user's supplied place identity exactly.
+If the user says:
+Ningbo Moon Lake
+do not replace it with:
+Hangzhou West Lake, Suzhou, another Chinese lake, or another visually similar famous destination.
+
+B — VERIFIED LOCATION
+The user did not provide a place name, but the photograph contains sufficiently reliable evidence.
+Examples:
+clearly readable signs, station names, building names, park plaques, road signs, official inscriptions, unique landmark structures, or multiple independent structural clues.
+Only the geographic level actually supported by evidence may be used.
+
+C — PLAUSIBLE LOCATION
+The photograph visually resembles a known place, but the evidence is insufficient.
+Examples:
+“looks like West Lake”
+“resembles Kyoto”
+“probably Suzhou”
+“possibly Shanghai”
+“feels like a Japanese garden”
+These are NOT verified geographic identities.
+Do not present them as facts.
+
+D — UNVERIFIED LOCATION
+No reliable geographic location can be established.
+In this case:
+DO NOT INVENT A PLACE NAME.
+Instead, identify and write the observable scene itself.
+For example:
+WATERSIDE GARDEN SCENE
+URBAN RIVERSIDE WALK
+LAKESIDE BOAT SCENE
+TREE-LINED WATERFRONT
+HISTORIC-STYLE GARDEN SCENE
+MOUNTAIN ROAD STUDY
+COASTAL STATION SCENE
+TEMPLE COURTYARD STUDY
+SUMMER STREET OBSERVATION
+RIVERSIDE ARCHITECTURAL STUDY
+The scene title must describe what is visibly present, not where the model imagines it might be.
+Therefore:
+UNKNOWN LOCATION DOES NOT MEAN EMPTY TYPOGRAPHY.
+It means:
+USE A TRUTHFUL SCENE IDENTITY INSTEAD OF A FABRICATED GEOGRAPHIC IDENTITY.
+
+1. USER-PROVIDED LOCATION OVERRIDES VISUAL GUESSING
+In normal use, the user may provide the location or attraction name together with the photograph.
+When this happens:
+USE THE USER-PROVIDED LOCATION DIRECTLY.
+Do not independently replace it with a more famous or visually similar place.
+User-provided information should control:
+the main location typography, English archival caption, bottom information panel, postmark wording, and geographic metadata.
+Do not silently upgrade the place to a more specific location than the user supplied.
+If the user supplies only:
+NINGBO
+do not invent:
+Moon Lake.
+If the user supplies:
+NINGBO MOON LAKE
+use:
+MOON LAKE · NINGBO
+where appropriate.
+
+2. IF THE USER DOES NOT PROVIDE THE LOCATION
+If no geographic information is supplied by the user, actively inspect the photograph.
+Do not immediately switch to generic text.
+First attempt to determine the actual place.
+Use this priority:
+readable geographic text
+unmistakable official signage
+highly distinctive landmark structure
+several independent structural clues
+broader city / region / country evidence
+observable scene identity.
+The model should make a real attempt to identify the scene.
+However:
+attempting identification does NOT authorize guessing.
+
+3. DIRECT VISUAL EVIDENCE
+Inspect:
+signs, station names, road names, park names, building plaques, maps, logos, official inscriptions, transit symbols, route numbers, road markings, architectural signage, and other visible geographic text.
+Readable text is strong evidence.
+But:
+DO NOT HALLUCINATE SMALL OR BLURRED TEXT.
+If text is:
+blurred, tiny, distorted, partially hidden, or unreadable,
+treat it as unreadable.
+Never mentally complete unclear lettering into a familiar destination.
+
+4. VISUAL CANDIDATES ARE ONLY HYPOTHESES
+When direct evidence is absent, several possible locations may be considered internally.
+Compare:
+architectural massing, roof geometry, tower placement, window rhythm, bridge structure, shoreline geometry, street layout, mountain relationship, vegetation, waterfront structure, adjacent buildings, rail infrastructure, road configuration, and skyline context.
+Do not choose the most famous candidate simply because it resembles the photograph.
+FAME IS NOT EVIDENCE.
+STYLE IS NOT LOCATION EVIDENCE.
+Traditional Chinese architecture does not automatically mean Hangzhou.
+A classical garden does not automatically mean Suzhou.
+A lake does not automatically mean West Lake.
+Japanese architecture does not automatically mean Kyoto.
+A European street does not automatically mean Paris.
+A pagoda does not automatically prove a specific pagoda.
+
+5. ANTI-CIRCULAR IDENTIFICATION RULE
+A candidate generated by the model cannot later become evidence supporting itself.
+Forbidden reasoning:
+“This looks like West Lake.”
+→ therefore Hangzhou is likely.
+→ therefore this architecture probably belongs to West Lake.
+→ therefore West Lake is verified.
+This is circular reasoning.
+It is prohibited.
+The same applies to:
+Kyoto, Suzhou, Beijing, Shanghai, Paris, Venice, or any famous destination.
+Candidate generation and verification must remain separate.
+
+6. LOCATION CONFIDENCE GATE
+Before rendering any geographic name, internally classify the result:
+LEVEL A — USER CONFIRMED
+Explicitly supplied by the user.
+→ USE IT.
+LEVEL B — HIGH-CONFIDENCE VERIFIED
+Supported by direct geographic evidence or multiple independent distinctive clues.
+→ USE ONLY THE VERIFIED LEVEL.
+LEVEL C — PLAUSIBLE BUT UNVERIFIED
+Possible, but not sufficiently proven.
+→ DO NOT PRESENT THE LOCATION AS FACT.
+Use an observable English scene title instead.
+LEVEL D — UNKNOWN
+No reliable geographic identity.
+→ DO NOT INVENT A LOCATION.
+Use an observable English scene title.
+
+7. GEOGRAPHIC PRECISION LIMIT
+Never render greater specificity than the evidence supports.
+If only the country is known:
+USE ONLY THE COUNTRY.
+If only the city is verified:
+USE ONLY THE CITY.
+If the city is known but the landmark is uncertain:
+DO NOT INVENT THE LANDMARK.
+If neither city nor landmark is reliable:
+USE A SCENE TITLE.
+Broader but accurate is preferable to specific but wrong.
+
+8. REQUIRED VISUAL ANALYSIS
+Before generating the transformed sections, internally analyze the uploaded photograph.
+Do not display this analysis.
+Identify:
+PRIMARY SUBJECTS
+Architecture, people, boats, vehicles, trees, water, mountains, roads, bridges, roofs, windows, signs, flowers, clouds, reflections, and other major elements.
+COUNTS AND REPETITION
+Notice approximate repetition:
+boats, columns, windows, arches, trees, roof peaks, birds, lamps, canopies, poles, vehicles, or flowers.
+DOMINANT GEOMETRY
+Identify:
+arcs, rectangles, horizontal bands, vertical rods, triangles, circles, waves, roof curves, reflections, grids, or irregular masses.
+DIRECTIONAL RHYTHM
+Identify:
+horizontal flow, vertical ascent, diagonal movement, repetition, convergence, floating, stacking, stillness, radial movement, or enclosure.
+SPATIAL STRUCTURE
+Identify:
+foreground, middle distance, background, open space, dense areas, sky, water, architecture, vegetation, paths, and reflections.
+DISTINCTIVE VISUAL CLUES
+Select approximately 3–7 elements that make this specific photograph visually recognizable.
+They do not need to identify the geographic location.
+They need to identify THIS IMAGE.
+
+9. COLOR DNA
+COLOR MUST BE DISCOVERED FROM THE PHOTOGRAPH.
+Extract:
+dominant color, secondary color, principal midtone, shadow color, highlight color, and genuine accent colors.
+Approximately:
+70–85%
+source dominant colors, secondary colors, midtones, and shadows.
+10–25%
+source highlights and atmospheric tones.
+0–10%
+slightly intensified genuine source accents.
+Never automatically impose:
+rust red, sepia, black and gold, mustard yellow, dark green and red, blue and orange, or another fixed vintage palette.
+At least three recognizable source color groups should survive whenever the photograph contains sufficient chromatic variation.
+
+10. OVERALL FORMAT
+Create one vertical 2:3 poster.
+Approximate vertical distribution:
+TOP — 38–42%
+MIDDLE — 25–28%
+BOTTOM — 30–35%
+The transitions may overlap slightly through:
+torn paper, pigment, printing, or physical collage.
+But the three layers must remain fundamentally different.
+TOP:
+EVIDENCE
+MIDDLE:
+IMPRINT
+BOTTOM:
+MONET MEMORY
+They must not look like three filters applied to one image.
+
+11. MATERIAL LANGUAGE
+The overall work should feel like an unknown East Asian travel document discovered inside an archive drawer.
+Use warm matte ivory or naturally aged paper wherever exposed.
+Introduce restrained physical aging:
+paper fibers, soft newsprint grain, uneven ink absorption, subtle pigment oxidation, broken letterpress edges, rubbed surfaces, minor foxing, soft fold traces, small scratches, dry pigment, fine halftone dots, minor print misregistration, uneven printing pressure, and naturally torn paper.
+Keep approximately 80–90% of the image visually clean.
+Distress should concentrate around:
+selected edges, torn seams, folds, postmarks, and isolated damaged areas.
+Avoid:
+uniform grime, muddy gray overlays, dense scratches, random splatter, fake coffee stains, heavy soot, extreme grain, and dirty texture covering the entire work.
+
+12. TOP — PHOTOGRAPHIC EVIDENCE
+The upper section is the only section allowed to preserve the original photographic viewpoint.
+Preserve the uploaded photograph faithfully:
+architecture, people, animals, boats, vehicles, vegetation, water, skyline, lighting, perspective, object placement, and spatial relationships.
+Do not reconstruct the architecture.
+Do not replace subjects.
+Do not add famous landmarks.
+Do not remove major subjects.
+Do not dramatically recolor the photograph.
+The image must remain clearly photographic.
+Only restrained archival reproduction is allowed:
+slightly faded print density, softened blacks, extremely fine halftone, fine film grain, minor pigment fading, tiny scratches, subtle edge oxidation, and uneven ink absorption.
+The original color relationships must remain recognizable.
+NOT cinematic.
+NOT glossy.
+NOT HDR.
+NOT heavily sepia.
+NOT painterly.
+NOT regenerated scenery.
+The lower boundary may dissolve into an irregular torn handmade-paper edge with visible fibers.
+
+13. MIDDLE — SYMBOLIC IMPRINT
+The middle section must compress the photograph rather than illustrate it.
+Think:
+archaeological imprint, primitive woodblock, experimental letterpress, damaged railway seal, museum specimen mark, travel insignia, fragmented regional printing block, or visual-memory symbol.
+But never use a fixed template.
+Identify the strongest structural motif in the photograph.
+Possible source motifs:
+roof curves, arches, windows, columns, boats, bridge geometry, tree trunks, mountain contours, water reflections, railings, umbrellas, street lamps, stairs, waves, vehicles, shadows, flowers, vertical poles, repeated hulls, or another scene-specific element.
+Select only approximately 2–4 structural relationships.
+Then:
+DESTROY THE ORIGINAL PERSPECTIVE.
+Do not draw the entire scene.
+Do not make a miniature version of the top photograph.
+Do not simply trace subjects.
+Transform objects into graphic relationships.
+Examples:
+repeated arches → broken apertures
+roof peaks → displaced wedges
+tree trunks → thin vertical cuts
+water → fragmented reflection bands
+tower → one interrupted vertical form
+windows → incomplete openings
+birds → tiny directional marks
+bridge → incomplete arc
+flowers → irregular pigment clusters
+boat canopies → flattened floating arcs
+boat supports → interrupted vertical marks
+The imprint must remain connected to this photograph without reproducing its original composition.
+
+14. NO FIXED SYMBOL RULE
+Do not automatically insert:
+red sun, red moon, eclipse, large decorative circle, postal disc, halo, generic pavilion, generic mountain, generic pagoda, generic temple, or generic landmark silhouette.
+Geometry must come from the uploaded photograph.
+If the source is dominated by:
+arches → derive the symbol from arches
+windows → use apertures
+water reflections → use reflection bands
+boats → derive forms from boats
+trees → derive branching or vertical rhythms
+roofs → derive roof structures
+flowers → use pigment clusters
+Every photograph must generate a different symbolic imprint.
+
+15. MIDDLE COMPOSITION
+Approximately 55–70% of the middle section should remain exposed paper.
+Use:
+one dominant symbolic structure,
+one secondary rhythm,
+one or two tiny supporting marks.
+Keep the section:
+sparse, concentrated, asymmetrical, and intentional.
+Avoid perfect centering.
+Avoid logo symmetry.
+Allow:
+floating fragments, cropping, partial disappearance, mirrored pieces, inverted fragments, misregistration, detached shadows, broken reflections, overlap, negative space, and impossible relationships.
+
+16. MIDDLE PRINT TREATMENT
+Use imperfect historical printing behavior:
+broken ink, uneven pressure, dry-brush edges, woodblock texture, missing pigment, rough carved contours, minor ink bleeding, partial disappearance, small registration shifts, and isolated worn areas.
+Usually 2–4 principal source-derived pigment groups are sufficient.
+Do not create clean digital vector graphics.
+Allow exposed paper to become part of the symbol.
+
+17. MIDDLE TYPOGRAPHIC IDENTITY
+Typography must follow the LOCKED identity.
+If the user provides or the model reliably verifies a location, the central typography may use:
+PRIMARY TYPOGRAPHY
+the verified destination / city / site name
+and, where appropriate:
+SECONDARY TYPOGRAPHY
+the verified city / region.
+The middle section may use Chinese and English where compositionally useful.
+For example:
+月湖
+MOON LAKE · NINGBO
+But only when the location is user-provided or reliably verified.
+If the location remains uncertain:
+use a truthful scene-based title instead.
+Examples:
+水岸观察
+WATERSIDE STUDY
+园林水景
+GARDEN WATER STUDY
+城市河岸
+URBAN RIVERSIDE STUDY
+Do not create fictional Chinese place names merely for visual balance.
+
+18. BOTTOM — MONET MEMORY
+The bottom section must undergo the strongest transformation.
+This is the defining characteristic of:
+Starryear-Monet-Stamp.
+The bottom is not:
+the original photograph with an oil-paint filter,
+the photograph with scratches,
+a newspaper overlay,
+or a dirty vintage collage.
+Instead:
+DISASSEMBLE THE PHOTOGRAPH AND REBUILD THE PLACE AS A PAINTERLY MEMORY.
+Some forms remain.
+Some colors survive.
+Some distances collapse.
+Some objects shift.
+Some reflections detach.
+Architecture becomes incomplete.
+Minor details disappear.
+Create a genuinely new composition.
+Do not preserve the original framing.
+Do not preserve the original object placement.
+Do not preserve the original photographic perspective.
+
+19. MONET MEMORY RECONSTRUCTION METHOD
+Select approximately 4–7 important source fragments.
+Then reorganize them.
+Possible operations include:
+enlarge one important form,
+aggressively crop another,
+move an object,
+separate a roof from its building,
+repeat a silhouette as a displaced echo,
+detach a reflection,
+compress the background,
+expand vegetation,
+flatten depth,
+overlap foreground and background,
+remove secondary objects,
+repeat one source rhythm,
+or dissolve selected areas into paper.
+The dominant visual subject must preserve its visual weight.
+If the source photograph is dominated by:
+one bridge, tower, temple, building, tree, boat group, vehicle group, flower field, gate, or another large visual mass,
+the bottom must still preserve its importance.
+But its:
+position, scale, geometry, perspective, and relationship to surrounding objects
+may change radically.
+Use:
+one dominant large-scale structure,
+two to four medium-scale visual rhythms,
+and a limited number of small directional marks.
+Create:
+a visual entry point,
+a zone of concentration,
+and a quieter breathing area.
+Maintain asymmetry.
+
+20. MONET-LIKE ATMOSPHERIC LANGUAGE
+The bottom may use a restrained painterly language inspired by the perceptual logic of Impressionist landscape painting.
+Use:
+broken color, reflected light, soft atmospheric distance, controlled visible brushwork, selective edge loss, color vibration, luminous midtones, and broad painterly relationships.
+A subtle Monet-like atmospheric sensibility is allowed.
+However:
+DO NOT COPY OR RECREATE ANY SPECIFIC MONET PAINTING.
+Do not turn everything into heavy oil paint.
+Do not cover the entire section with thick impasto.
+Do not create muddy painterly sludge.
+Do not make the result excessively romantic.
+Painterly treatment should primarily affect:
+sky, water, vegetation, reflections, atmosphere, and selected architectural surfaces.
+Some structural fragments may remain sharper.
+Others may dissolve.
+The result should feel:
+luminous, airy, breathable, perceptual, quiet, and reconstructed.
+
+21. BOTTOM COLOR RECONSTRUCTION
+The bottom must preserve the photograph's color identity.
+Translate original colors into broader painterly relationships.
+For example:
+yellow → broken ochre / pale yellow / warm golden masses
+green vegetation → irregular botanical fields
+blue-gray sky → pale atmospheric planes
+dark water → source-derived reflection bands
+white architecture → cream or paper-colored planes
+pink blossoms → dispersed pink color clusters
+red architecture → restrained brick-red fragments
+sunlight → pale source-derived highlights
+These are examples only.
+Never introduce a color merely because it looks “vintage.”
+Only use colors supported by the photograph.
+From a distance, the lower section must remain chromatically related to the original image.
+
+22. BOTTOM CLEANNESS CONTROL
+The Monet Memory section must remain cleaner and lighter than a typical distressed collage.
+Keep approximately 80–90% visually readable and breathable.
+Texture should describe:
+paper, paint, wood, stone, foliage, architecture, reflection, water, and printing.
+Texture must never become the main subject.
+Use selectively:
+soft dry brush, thin lithographic grain, restrained halftone, exposed paper, small palette-knife interruptions, broken-print regions, light scraping, and limited torn edges.
+Strictly avoid:
+all-over grime, dirty gray veils, dense newspaper text, black soot, random scratches everywhere, muddy brown overlays, excessive collage debris, burned edges, heavy splatter, visual noise, and overprocessed vintage filters.
+If the section looks dirty before atmospheric:
+REMOVE DISTRESS.
+If texture hides the source colors:
+REMOVE TEXTURE.
+If the painterly treatment becomes muddy:
+RESTORE CLEAN MIDTONES, LIGHT, AND AIR.
+
+23. ABSOLUTE BOTTOM ENGLISH-ONLY RULE
+ALL TYPOGRAPHY INSIDE THE BOTTOM SECTION MUST BE IN ENGLISH.
+This is mandatory.
+Do not use Chinese characters in the bottom section.
+Do not use Japanese.
+Do not use mixed Chinese-English labels.
+Do not use Chinese seal text.
+Do not use Chinese geographic typography.
+Everything in the bottom information system must be English.
+This includes:
+location title, scene title, country name, city name, landmark name, information-panel text, specimen number, archive notation, postmark wording, postal cancellation text, and any minor descriptive typography.
+The middle section may contain Chinese typography.
+The bottom section must remain English only.
+
+24. BOTTOM INFORMATION FIELD
+The reconstructed Monet-like artwork should occupy roughly two-thirds to three-quarters of the lower width.
+Place a narrow aged-paper information field on the right side.
+Do not create a perfectly clean modern digital rectangle.
+Its edge may feel:
+slightly torn, uneven, softly stained, partially dissolved, or overlapped by the painterly image.
+Keep it elegant and readable.
+Allow only a limited number of:
+paint fragments, architectural forms, vegetation, reflections, boats, or ink traces
+to enter the information field.
+
+25. BOTTOM INFORMATION HIERARCHY
+The bottom information panel must use English only.
+IF A LANDMARK OR SITE IS USER-PROVIDED OR VERIFIED
+Use:
+[LANDMARK / SITE NAME]
+[CITY] · [COUNTRY IF KNOWN]
+Then one short factual English sentence.
+Then:
+SPECIMEN NO. [NUMBER]
+
+IF ONLY THE CITY IS RELIABLE
+Use:
+[CITY]
+[COUNTRY IF RELIABLE]
+Then one geographically safe English sentence.
+Then:
+SPECIMEN NO. [NUMBER]
+
+IF THE LOCATION IS NOT RELIABLE
+Do not invent a location.
+Instead use a descriptive scene title.
+For example:
+WATERSIDE GARDEN STUDY
+LOCATION UNCONFIRMED
+“A quiet waterside scene defined by trees, boats, architecture and reflected light.”
+SPECIMEN NO. 027
+Or:
+URBAN RIVERSIDE OBSERVATION
+SITE UNVERIFIED
+“A riverside scene structured by repeated verticals, vegetation and reflected architecture.”
+SPECIMEN NO. 041
+The descriptive sentence must only mention directly visible elements.
+Do not invent:
+historical dates, dynasties, architects, construction years, UNESCO status, heritage status, tourism claims, historical events, or cultural significance.
+
+26. SCENE NAMING RULE
+If the user does not provide the location and the model cannot reliably verify it, the model must still create an English SCENE NAME.
+This scene name should summarize the actual visual environment.
+It should generally consist of approximately 2–5 words.
+Examples:
+WATERSIDE GARDEN STUDY
+LAKESIDE BOAT SCENE
+TREE-LINED WATERFRONT
+SUMMER STREET OBSERVATION
+COASTAL STATION MEMORY
+RIVERSIDE ARCHITECTURE STUDY
+GARDEN POND OBSERVATION
+MOUNTAIN ROAD MEMORY
+EVENING URBAN WATERFRONT
+Do not use generic phrases if more specific visible evidence is available.
+For example:
+if the photograph clearly contains boats and a lake,
+prefer:
+LAKESIDE BOAT STUDY
+over:
+LANDSCAPE RECORD
+The goal is:
+SPECIFIC ABOUT THE IMAGE, CAUTIOUS ABOUT THE GEOGRAPHY.
+
+27. LARGE POSTAL STAMP
+Place one large circular postal cancellation across the boundary between:
+the reconstructed artwork
+and
+the information field.
+Approximately:
+45–55% on the artwork
+and
+45–55% on the information field.
+It must feel physically stamped after the collage was assembled.
+The stamp is a major identity element of:
+Starryear-Monet-Stamp.
+However:
+the stamp must still be derived from the current photograph.
+It cannot become a repeated logo template.
+
+28. POSTMARK TEXT — ENGLISH ONLY
+All postmark typography must be English.
+IF THE USER PROVIDED OR THE MODEL VERIFIED THE LOCATION
+Use:
+[LANDMARK / SITE] · [CITY] · [COUNTRY]
+or, if only city-level identity is reliable:
+[CITY] · [COUNTRY]
+Do not add unverified levels.
+
+IF THE LOCATION REMAINS UNVERIFIED
+Use the English scene identity or neutral archive wording.
+Examples:
+WATERSIDE GARDEN STUDY
+TRAVEL FIELD ARCHIVE
+FIELD OBSERVATION
+LANDSCAPE RECORD
+ARCHIVE SPECIMEN
+SITE UNVERIFIED
+LAKESIDE BOAT STUDY
+URBAN WATERFRONT STUDY
+Never insert a famous destination merely to make the postal mark look more convincing.
+
+29. POSTMARK SYMBOL
+The central symbol inside the circular stamp must come from the CURRENT PHOTOGRAPH.
+Do not automatically use:
+pagoda, temple, mountain, sun, moon, tower, gate, pavilion, bridge, or tree.
+Select one genuinely distinctive structural motif from the source and compress it into approximately 2–6 engraved strokes.
+Examples:
+boats → shallow canopy arcs + water line
+bridge → arch + deck
+tower → interrupted vertical + structural cuts
+mountain → asymmetric contour
+roof → hooked roof strokes
+tree avenue → irregular vertical cuts
+flower field → clustered tiny marks
+repeated arches → compressed apertures
+water reflection → broken horizontal bands
+The symbol functions as a compressed memory of the photograph.
+It does not have to represent a geographic landmark.
+
+30. POSTMARK MATERIAL
+Render the postal cancellation using:
+broken circumference, missing sections, uneven pressure, faded letters, slight rotation, minor double printing, ink bleeding, partial disappearance, subtle misalignment, and approximately 3–5 faded cancellation waves.
+Avoid:
+perfect digital circles, clean branding, logo symmetry, sharp vector geometry, or elaborate miniature illustrations.
+
+31. THREE-LAYER DIFFERENTIATION TEST
+Before completion, compare the three sections.
+TOP — EVIDENCE
+Does it still clearly read as photographic reality?
+If not:
+restore photographic fidelity.
+MIDDLE — IMPRINT
+Could the symbolic composition exist without reproducing the photographic perspective?
+If not:
+abstract it further.
+Does the symbol come specifically from this photograph?
+If not:
+extract another motif.
+BOTTOM — MONET MEMORY
+Is the composition genuinely reconstructed?
+If it still resembles the original photograph too closely:
+move, enlarge, remove, overlap, detach, flatten, crop, repeat, and reorganize the visual fragments.
+Does the main subject retain appropriate visual importance?
+If not:
+restore its visual weight without restoring the original perspective.
+Do the colors remain recognizably source-derived?
+If not:
+re-extract the palette.
+Does the result look dirty rather than luminous?
+If yes:
+remove approximately half of the distress.
+
+32. CROSS-IMAGE VARIATION TEST
+Imagine applying this method to ten completely different travel photographs.
+Their middle sections must not all contain:
+a red circle, a centered logo, a landmark silhouette, the same composition, the same pigment arrangement, or the same structural symbol.
+Their bottom sections must not all become:
+brown newspaper collages, dirty oil paintings, identical torn-paper arrangements, or the same landscape reconstruction.
+Their postal marks must not all contain:
+the same icon, the same text arrangement, or the same destination logic.
+Every photograph must generate its own:
+symbol, palette, spatial rhythm, scene name, Monet reconstruction, postmark icon, typographic hierarchy, and archive field.
+Only the method remains fixed:
+EVIDENCE → IMPRINT → MONET MEMORY
+
+33. LOCATION FAILURE MODE
+If geographic identification fails, DO NOT STOP THE ARTWORK.
+Switch automatically into:
+SCENE-BASED FIELD ARCHIVE MODE.
+In this mode:
+TOP
+Preserve the photographic evidence.
+MIDDLE
+Create source-derived symbolic abstraction.
+MIDDLE TYPOGRAPHY
+Use truthful neutral or scene-based terminology.
+BOTTOM
+Reconstruct the scene into Monet-like painterly memory.
+BOTTOM TITLE
+Create a concise English observable-scene name.
+INFORMATION FIELD
+Use English only.
+Describe only directly visible evidence.
+POSTMARK
+Use English scene-based archival wording.
+POSTMARK SYMBOL
+Derive the icon from a distinctive visible source motif.
+Therefore:
+AN UNKNOWN LOCATION MUST STILL PRODUCE A COMPLETE ARTWORK.
+But:
+A COMPLETE ARTWORK MUST NEVER REQUIRE A FABRICATED LOCATION.
+
+34. SECOND LOCATION CHECK
+Immediately before rendering any geographic name, perform a second independent verification.
+Ask internally:
+Did the user explicitly provide this location?
+If yes:
+use it unless clearly contradicted.
+If not, what direct evidence supports it?
+Am I relying mainly on:
+architectural style, general atmosphere, lake scenery, traditional roofs, vegetation, mountains, boats, or resemblance to a famous destination?
+If yes:
+the location is not verified.
+Could this realistically be another:
+park, lake, city, district, temple, garden, station, waterfront, or scenic area?
+If yes:
+reduce geographic specificity.
+Do at least three independent distinctive structural clues support a landmark-level identification?
+If not:
+remove the landmark name.
+Is the city independently verified?
+If not:
+remove the city name.
+Is the country itself sufficiently supported?
+If not:
+remove the country.
+Did an earlier candidate become “evidence” merely because the model repeated it?
+If yes:
+discard that reasoning.
+Is a famous location being chosen mainly because the artwork feels more complete with a recognizable destination?
+If yes:
+remove it.
+If the geographic name disappeared from memory, would the same identification still be made from the photograph alone?
+If not:
+use a scene-based title instead.
+
+35. FINAL TYPOGRAPHY CHECK
+Before rendering, verify:
+TOP
+No unnecessary text should obscure photographic evidence.
+MIDDLE
+Chinese and/or English may be used.
+Any geographic identity must be user-provided or reliably verified.
+BOTTOM
+ENGLISH ONLY.
+No Chinese characters.
+No mixed-language postmark.
+No Chinese information label.
+No Chinese specimen metadata.
+No Chinese geographic text.
+No Chinese seal wording.
+
+36. FINAL ARTWORK VERIFICATION
+Before finishing, confirm:
+The user-provided location, if present, was respected.
+No visually plausible but unverified destination was presented as fact.
+Landmark-level identification passed structural verification.
+Geographic specificity does not exceed available evidence.
+If geographic verification failed, a truthful scene identity replaced the missing location.
+The middle symbol was derived specifically from the current photograph.
+No fixed sun, circle, pagoda, pavilion, landmark icon, or reusable emblem was introduced without source evidence.
+At least three recognizable source color groups survive whenever possible.
+The primary visual subject retains appropriate visual importance.
+The bottom composition differs substantially from the source photograph.
+The bottom is luminous, atmospheric, painterly, and clean.
+The bottom information panel is entirely English.
+The bottom postal mark is entirely English.
+The postmark symbol comes from the current photograph.
+No invented historical or cultural fact appears.
+No famous landmark was substituted for an uncertain location.
+No self-generated location candidate was used as evidence for itself.
+Every major transformed visual element can be traced back to the uploaded photograph.
+The three layers clearly read as:
+EVIDENCE → IMPRINT → MONET MEMORY
+The result unmistakably belongs to the visual system:
+Starryear-Monet-Stamp 星年莫奈印章
+
+37. STRICTLY AVOID
+three repeated photographs,
+identical crops,
+identical perspectives,
+literal tracing,
+miniature scenic illustration,
+photorealistic middle section,
+photorealistic bottom section,
+simple oil-paint filters,
+generic Monet imitation,
+fixed red suns,
+fixed moons,
+fixed circles,
+fixed palettes,
+fixed landmark silhouettes,
+fixed postmark symbols,
+generic pagodas,
+generic temples,
+generic pavilions,
+generic mountains,
+invented landmarks,
+incorrect place names,
+famous-landmark substitution,
+style-based geographic guessing,
+scenery-based geographic guessing,
+architectural-style geographic guessing,
+circular location reasoning,
+hallucinated signage,
+invented Chinese place names,
+invented English destinations,
+reused city names,
+reused postmarks,
+unrelated architecture,
+modern UI graphics,
+clean vector logos,
+scrapbook stickers,
+glossy postcard aesthetics,
+neon colors,
+heavy sepia,
+all-over grunge,
+excessive scratches,
+dense fake newspaper text,
+muddy painting,
+black soot,
+dirty gray overlays,
+random handwriting,
+perfect digital postal marks,
+symmetrical branding,
+and any middle or bottom composition that visibly duplicates the original photographic perspective.
+
+38. FINAL FEELING
+The finished artwork should feel:
+quiet, archival, weathered, luminous, poetic, observational, material, slightly uncanny, handmade, spatially intelligent, painterly, and historically ambiguous.
+It should feel like an unknown travel document discovered inside an old archive drawer,
+where one real photographed place survives through three different states:
+photographic evidence, symbolic imprint, and painterly memory.
+The upper section remembers what was seen.
+The middle remembers only the structure.
+The lower section remembers the place the way light and color remain after time has passed.
+Not retro decoration.
+Not generic nostalgia.
+Not tourism advertising.
+Not three filters.
+Not a fixed poster template.
+Not a generic Monet filter.
+Not a confidently misidentified destination.
+And especially:
+NOT A BEAUTIFUL LIE ABOUT WHERE THE PHOTOGRAPH WAS TAKEN.
+
+39. ABSOLUTE FINAL RULE
+When the user provides the location:
+USE IT.
+When the user does not provide the location:
+TRY TO IDENTIFY IT.
+When the location can be verified:
+WRITE THE VERIFIED LOCATION.
+When the location cannot be reliably verified:
+WRITE THE OBSERVABLE SCENE INSTEAD.
+Never invent geographic precision.
+Never leave the artwork conceptually unfinished merely because the place cannot be identified.
+The bottom section must always use:
+ENGLISH ONLY.
+The final result must preserve the method:
+EVIDENCE → IMPRINT → MONET MEMORY
+while allowing every photograph to generate its own:
+identity, scene title, visual language, symbol, palette, rhythm, typography, Monet reconstruction, information field, and postal stamp.
+THE METHOD IS FIXED.
+THE IMAGE IS NOT.
+THE LOCATION MUST BE EARNED BY EVIDENCE.
+THE SCENE MUST ALWAYS BE READ FROM THE PHOTOGRAPH.
+THE MEMORY MUST BELONG TO THIS PLACE.
+OUTPUT:
+ONE FINISHED VERTICAL 2:3 ARTWORK.
+================================================================================
+【完整口令｜从这里结束】【完整口令｜从这里结束】【完整口令｜从这里结束】【完整口令｜从这里结束】
+================================================================================
+【发布作品时】
+Skill拥有版权，使用自己的照片生成并公开发布作品时，请在标题、正文或评论中标注：
+使用 Skill：Starryear-Abstract-Quartet
+也欢迎在平台支持的情况下 @Starryear 或 @Starryear 年，让我能够看到你的作品。标注和 @ 是对原创方法与作者最友好的支持。
+====================
+【版权与使用说明】
+1. 本分享包中的 Skill 文件、完整口令、方法文字、网站内容、示例作品及 Starryear 原创摄影，版权及相关权益归 Starryear 所有。
+2. 欢迎个人学习、体验，并使用自己拥有合法权利的照片进行创作和非商业分享。
+3. 未经书面授权，不得转载或商用 Starryear 的示例摄影和示例作品；不得将本 Skill、口令或方法改名后重新打包、售卖、用于付费课程、素材包或冒充原创发布。
+4. 如果照片由他人拍摄，或包含受限制的人像、商标、建筑、展览和艺术品，请先取得必要授权。
+5. 使用 AI 平台生成的作品，还应遵守所使用平台的条款及所在地法律法规。商业项目、品牌合作、出版和大规模传播建议提前联系授权。
+6. 版权及商务授权联系：**[Starryear@outlook.com](mailto:Starryear@outlook.com)**
+====================
+【关于 Starryear】♪主页群更新最近摄影Skill，欢迎加入~👏🏻
+🧩一个做Skill的摄影师
+🗞️【分享 AI 前沿技能与审美解构并赋能纪实影像】
+🧾 年｜风光影像摄影师｜视觉解构艺术家
+🪄 纪实拍摄 × 生成艺术 × 转译重构
+📓「摄影作品均原创，未经授权禁止转载商用」
+📜 [Starryear@outlook.com)（Starryear/年｜全网同名）
