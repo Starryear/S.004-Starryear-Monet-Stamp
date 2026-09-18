@@ -1,0 +1,4 @@
+interface:
+  display_name: "S-004 · 星年莫奈印章"
+  short_description: "把旅行照片转成证据、印记与莫奈记忆三段式档案"
+  default_prompt: "使用 $starryear-monet-stamp 将我上传的照片制作成一张星年莫奈印章作品；若我知道地点，会同时提供地点名称。"
